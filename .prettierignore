@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Production
+dist
+build
+.next
+out
+
+# Misc
+.DS_Store
+*.log
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache
+*.tsbuildinfo
+
+# IDE
+.vscode
+.idea
